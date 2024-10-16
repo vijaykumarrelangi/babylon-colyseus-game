@@ -62,8 +62,8 @@ Make sure the following tools are installed:
 ### Step 1: Clone the Repository
 Open a terminal and run:
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/vijaykumarrelangi/babylon-colyseus-game.git
+cd babylon-colyseus-game
 ```
 ### Step 2: Install Dependencies
 Navigate to both the server and client directories and install their dependencies:
